@@ -1,0 +1,477 @@
+@import
+ url('https://fonts.googleapis.com/css2?family=Marcellus+SC&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+.marcellus-sc-regular {
+  font-family: "Marcellus SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+
+
+
+
+background: #931594;
+background: linear-gradient(182deg,#931594 0%, #2d2284 40%, rgba(35,42,164,0.96) 80%);
+background: -webkit-linear-gradient(182deg,#931594 0%, #2d2284 40%, rgba(35,42,164,0.96) 80%);
+background: -moz-linear-gradient(182deg,#931594 0%, #2d2284 40%, rgba(35,42,164,0.96) 80%);
+margin: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h1  {
+  font-family: "Marcellus SC", serif;
+  font-size: 60px;
+  font-weight: 400;
+  font-style: normal;
+   text-align: center;
+    color: #8e80ffd8;
+    text-shadow: 8px 8px 16px #56adb6;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1:hover {
+color: rgb(99, 219, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p {
+    font-family: "Marcellus SC", serif;
+font-size: 16px;
+line-height: 1.5;
+ text-align: justify;
+    line-height: 1.6;
+   
+}
+img {
+display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 20px auto;
+    border: 3px solid #69d6f7;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(93, 206, 241, 0.3);
+    transition: transform 0.4s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img:hover {
+transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2
+{
+  font-family: "Marcellus SC", serif;
+  font-weight: 400;
+  font-style: normal;
+    border-radius: 8px;
+    padding: 10px 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: rgb(255, 255, 255);
+    background: #8b26ff;
+     text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2:hover {
+color: rgb(72, 17, 86);
+}
+h3 {
+ font-family: "Marcellus SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3:hover {
+color: rgb(99, 219, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+  ul {
+    list-style-type: square;
+    background-color: #3355b2;
+    border: 2px solid #7425f3;
+    border-radius: 10px;
+    padding: 20px 20px 20px 40px;
+    color: #c9dff9;
+  }
+ 
+  li {
+    margin-bottom: 10px;
+    font-size: 1.05rem;
+  }
+ 
+ 
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+ 
+  th, td {
+    border: 1px solid #0027d4;
+    padding: 12px;
+    text-align: center;
+  }
+ 
+ 
+  tr:hover {
+    background-color: #283088;
+  }
+ 
+ 
+  a {
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3487cb;
+    border: 2px solid #0b79df;
+    transition: background-color 0.3s ease;
+  }
+ 
+  a:hover {
+    background-color: #11b6bb;
+  }
+ 
+  hr {
+    border: none;
+    height: 3px;
+    background-color: #69929e;
+  }
+
